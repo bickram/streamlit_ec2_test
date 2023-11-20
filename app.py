@@ -6,7 +6,7 @@ LeftNav = st.sidebar
 
 with headerSelection:
     st.title("Streamlit")
-    st.markdown("This is a demo of Streamlit - TEST")
+    st.markdown("This is a demo of Streamlit - TEST-Repeated")
 
 with mainSection:
     left_col, right_col = st.columns(2)

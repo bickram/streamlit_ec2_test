@@ -18,8 +18,8 @@ with mainSection:
 
     with right_col:
         st.header("Right Column")
-        st.markdown("RIght Column")
-    
+        st.markdown("Right Column")
+
 
 with LeftNav:
     st.button("menu1", on_click=lambda: st.success("Menu1"))
